@@ -10,7 +10,7 @@ This free software is a compilation of free software and should not be paid for.
 
 ## KillMyParents is a Compilation of Software
 All I really did was bundle the software together and set Parental Control Remover by Derf to autorun. KillMyParents is made possible by the following software:
-- Parental Control Remover by Derf (source: https://github.com/DerfJagged/ParentalControlRemover/)
+- Parental Control Remover by Derf (source: https://github.com/DerfJagged/ParentalControlRemover/) (CC0-1.0 License)
 - BadUpdate by Grimdoomer (source: https://github.com/grimdoomer/Xbox360BadUpdate/)
 - ABadAvatar by bibarub (source: https://github.com/bibarub/XBox360BadUpdate/releases/)
 - XeUnshackleMax by klofi and Byrom90 (source: https://github.com/klofi/XeUnshackle-Max)
