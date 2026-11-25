@@ -46,7 +46,7 @@ KillMyParents uses Derf's Parental Control Remover, an Xbox 360 homebrew applica
 
 ### Step 3: Put KillMyParents onto the USB Stick
 - Once the format has completed, remove the USB stick from your Xbox 360 and insert it into your computer
-- Download the latest KillMyParents.zip file and extract it. Inside the KillMyParents folder, copy the contents of the USB Root folder to the root of your USB drive
+- Download the latest KillMyParents.zip file from the Releases and extract its contents to the root of your USB drive
   - If prompted, MERGE all folders and REPLACE all files
 
 ### Step 4: Run KillMyParents
