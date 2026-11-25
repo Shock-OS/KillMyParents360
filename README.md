@@ -1,7 +1,7 @@
 # KillMyParents360
 Easily remove Xbox 360 Parental/Content Controls, even without knowing the password. KillMyParents360 is a compilation of Xbox 360 homebrew software set up to make the process as easy as putting the files on a USB drive, plugging it into the Xbox 360, and clicking a few buttons. That's it!
 
-This software is intended to simplify and streamline Xbox 360 parental/content control removal to help with cases such as selling/giving/buying/receiving an Xbox 360 that has a parental control lock password that is unknown and needs to be wiped.
+This software is intended to simplify and streamline Xbox 360 parental/content control removal to help with cases such as selling/giving/buying/receiving an Xbox 360 that has a parental control lock password that is unknown and needs to be removed.
 
 <b>MADE FOR UNMODIFIED, STOCK XBOX 360s. JTAG/RGH/BadUpdate XBOX 360s SHOULD USE DERF'S PARENTAL CONTROL REMOVER DIRECTLY (source: https://github.com/DerfJagged/ParentalControlRemover/)</b>
 
