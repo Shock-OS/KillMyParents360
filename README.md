@@ -1,7 +1,7 @@
 # KillMyParents360
 Easily remove Xbox 360 Parental/Content Controls, even without knowing the password. KillMyParents360 is a compilation of Xbox 360 homebrew software set up to make the process as easy as putting the files on a USB drive, plugging it into the Xbox 360, and clicking a few buttons. That's it!
 
-This software is intended to simplify and streamline Xbox 360 parental/content control removal to help with cases such as selling/giving/buying/receiving an Xbox 360 that has a parental control lock password that is unknown and needs to be removed.
+This software is intended to simplify and streamline Xbox 360 parental/content control removal to help with cases such as selling/giving/buying/receiving an Xbox 360 that has an unknown parental control passcode needing removal.
 
 <b>MADE FOR UNMODIFIED, STOCK XBOX 360s. JTAG/RGH/BadUpdate XBOX 360s SHOULD USE DERF'S PARENTAL CONTROL REMOVER DIRECTLY (source: https://github.com/DerfJagged/ParentalControlRemover/)</b>
 
@@ -19,7 +19,9 @@ All I really did was bundle the software together and set Parental Control Remov
 The USB Root was set up by using the ConsoleMods.org wiki (https://consolemods.org/wiki/Xbox_360:Bad_Update) as a reference, with several steps omitted for cleanliness, as KillMyParents360 does not require Aurora, DashLaunch, or XeXMenu for its purposes.
 
 ## How It Works
-KillMyParents360 uses Derf's Parental Control Remover, an Xbox 360 homebrew application, to remove Parental/Content Controls from the Xbox 360 by simply pressing a button; no need to know the password. However, because Parental Control Remover is a homebrew application (e.g. unsigned code), it will NOT run on an unmodified console, meaning the Xbox 360 must be running some sort of exploit for this to work. That's where BadUpdate and ABadAvatar come in, allowing the console to be temporarily hacked (only until it is turned off) so the Parental Control Remover software can run. BadUpdate and ABadAvatar require the latest Xbox 360 Dashboard, which is bundled with KillMyParents360. When you insert the KillMyParents360 USB stick into your Xbox 360, a pop-up will automatically show, prompting you to update, if your Xbox 360 is not on the latest dashboard. That's why this software exists, to eliminate extra steps and navigate the nuances to make it as easy, quick, and straightforward as possible to remove parental controls, especially if you don't want your Xbox 360 permanently modified (KillMyParents360 leaves no trace and the console returns to its previous unmodified state when the system is shut down and the USB is removed).
+KillMyParents360 uses Derf's Parental Control Remover, an Xbox 360 homebrew application, to remove Parental/Content Controls from the Xbox 360 by simply pressing a button; no need to know the password. However, because Parental Control Remover is a homebrew application (e.g. unsigned code), it will NOT run on an unmodified console, meaning the Xbox 360 must be running some sort of exploit for this to work. That's where BadUpdate and ABadAvatar come in, allowing the console to be temporarily hacked (only until it is turned off) so the Parental Control Remover software can run. BadUpdate and ABadAvatar require the latest Xbox 360 Dashboard, which is bundled with KillMyParents360. When you insert the KillMyParents360 USB stick into your Xbox 360, a pop-up will automatically show, prompting you to update, if your Xbox 360 is not on the latest dashboard.
+
+This software exists to eliminate extra steps and navigate nuances to make it as easy, quick, and straightforward as possible to remove parental controls, especially if you don't want your Xbox 360 permanently modified (KillMyParents360 leaves no trace and the console returns to its previous unmodified state when the system is shut down and the USB is removed).
 
 ## Features
 - Quick and easy, out-of-the-box, all you need is a USB drive
