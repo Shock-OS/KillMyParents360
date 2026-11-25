@@ -56,5 +56,5 @@ KillMyParents360 uses Derf's Parental Control Remover, an Xbox 360 homebrew appl
 - The ABadAvatar exploit should launch automatically. You should see the chain breaking video. If you do not see this video after 10 seconds, simply turn off the Xbox 360 and restart Step 4 (MAKE SURE TO SIGN OUT IF YOUR XBOX 360 AUTOMATICALLY SIGNS IN TO A CERTAIN PROFILE)
 - When you reach the XeUnshackle Max screen, press the Back button (NOT "B", the Back button)
 - You should see a screen that says "Parental Control Remover". Simply press A to clear Parental Controls.
-- That's it! You can now turn off your console and remove the USB stick. Your console will return to its unmodified state when you power it on.
+- That's it! You can now turn off your console and remove the USB stick. Your console will return to its unmodified state when you power it on, but with Parental Controls removed.
   - NOTE: If you press B to reboot and leave the USB stick plugged in, Step 4 may loop itself unnecessarily. Power down the console and remove the USB stick to finish.
